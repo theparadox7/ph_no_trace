@@ -21,7 +21,7 @@ To use this tool, follow these steps:
 
 
 ## 🚨 Disclaimer: 🚨
-**This tool is intended for educational purposes only. Use it responsibly and ensure compliance with local laws and regulations. Unauthorized use is strictly prohibited**
+## This tool is intended for educational purposes only. Use it responsibly and ensure compliance with local laws and regulations. Unauthorized use is strictly prohibited ##
 
 ## 🔒 Attention Users! 🔒
 **Respect privacy and adhere to legal and ethical standards when using this tool.**
