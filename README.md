@@ -19,6 +19,12 @@ To use this tool, follow these steps:
 2. Enter the mobile number when prompted
 3. View the traced location and service provider information
 
-## Example
-```python
-  --Paradox
+
+##🚨 Disclaimer: 🚨
+**This tool is intended for educational purposes only. Use it responsibly and ensure compliance with local laws and regulations. Unauthorized use is strictly prohibited**
+
+##🔒 Attention Users! 🔒
+**Respect privacy and adhere to legal and ethical standards when using this tool.**
+
+##Contribution
+Feel free to contribute by submitting issues or pull requests. Your feedback and suggestions are highly appreciated!
